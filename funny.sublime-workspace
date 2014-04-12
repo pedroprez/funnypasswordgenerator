@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"PACK",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"omni",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"OmniMarkupPreviewer",
+				"Preferences: OmniMarkupPreviewer Settings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"taks",
+				"Tasks: New document"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"mar",
+				"Snippet: Markdown_header_(mdh1)"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pedroprez/Google Drive/Keetup/Reportes Pedro/2014/02.24.todo",
+		"/Users/pedroprez/Desktop/Propuestas recursos.TODO",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes Pedro/2014/02.07.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes Pedro/2014/01.20.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes Pedro/2014/01.27.todo",
+		"/Users/pedroprez/Desktop/Bloomia/Slide de referencia.txt",
+		"/Users/pedroprez/Sites/office/index.php",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes Pedro/10.14.todo",
+		"/Users/pedroprez/Sites/keetup/engine/settings.php",
+		"/Users/pedroprez/Desktop/Consultas",
+		"/Users/pedroprez/Desktop/cultouch",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/02.11.txt",
+		"/Users/pedroprez/Desktop/Notas Demo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/07.15.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/07.08.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/07.01.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/Cursos/Curso de Internacionalización.txt",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/06.03.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/06.17.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/06.10.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/05.27.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/05.20.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/05.13.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/05.06.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/04.29.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/04.22.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/1.28.txt",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/04.15.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/04.08.txt",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/06.24.todo",
+		"/Users/pedroprez/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/pedroprez/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/Entrevistas/administracion/fiorela_di_stefano.md",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/Entrevistas/administracion/gisela_tacon.md",
+		"/Users/pedroprez/Desktop/Autosustentabilidad_04_23.todo",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/week_template_pedro.todo",
+		"/Users/pedroprez/Library/Application Support/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/04.15.txt",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/04.01.txt",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/03.24.txt",
+		"/Users/pedroprez/Sites/aquincum/mod/aquincum_admin/pages/admin/ui/knob.php",
+		"/Users/pedroprez/Sites/aquincum/mod/thewire/tests/regex.php",
+		"/Users/pedroprez/Sites/aquincum/mod/aquincum_admin/views/default/admin/moderation/ui/knob.php",
+		"/Users/pedroprez/Sites/aquincum/mod/thewire/views/default/river/object/thewire/create.php",
+		"/Users/pedroprez/Sites/aquincum/mod/aquincum_admin/start.php",
+		"/Users/pedroprez/Sites/aquincum/mod/aquincum_admin/pages/moderator/ui/knob.php",
+		"/Users/pedroprez/Sites/conquer/template_content/assets/jquery-knob/index.html",
+		"/Users/pedroprez/Sites/aquincum/mod/aquincum_admin/views/default/admin/moderation/menues/monitor.php",
+		"/Users/pedroprez/Sites/aquincum/mod/thewire/start.php",
+		"/Users/pedroprez/Downloads/RS981_firma_pedro.html",
+		"/Users/pedroprez/Library/Mail/V2/MailData/Signatures/__B327E519-D7DE-4788-A6C8-D8D6B35ECBBF.mailsignature",
+		"/Users/pedroprez/Library/Mail/V2/MailData/Signatures/B327E519-D7DE-4788-A6C8-D8D6B35ECBBF.mailsignature",
+		"/Users/pedroprez/Google Drive/Keetup/Reportes/03.11.txt",
+		"/Users/pedroprez/Downloads/mamp_pro_serial_number.txt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/pedroprez/Sites/aquincum"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" \n",
+			"reuniPreguntar",
+			"R1",
+			"fnFormatDetails",
+			"B:B",
+			"A:A",
+			"B:B",
+			"A:A",
+			"B:B",
+			")))))",
+			"B:B",
+			"1.png",
+			".PNG",
+			"thewire_filter",
+			"dashboard-report-range",
+			"elgg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"O1",
+			"N:N",
+			"M:M",
+			"G:G",
+			"H:H",
+			"D:D",
+			"E:E",
+			"D:D"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "funny.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
