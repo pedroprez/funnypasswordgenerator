@@ -36,12 +36,12 @@
       <div class="container">
         <h2>Funny Captcha Generator!</h2>
         <p>The best way to create funny Captcha</p>
-        <form class="form-inline" role="form">
+        <form class="form-inline" role="form" action="papa.php">
           <div class="form-group">
-            <button type="submit" class="btn btn-primary btn-lg">Generate Captcha!</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnUpdateCaptcha">Generate Captcha!</button>
           </div>
           <div class="form-group">
-            <img src="captchaimage.php" height="44" />
+            <img src="captchaimage.php" original-path="captchaimage.php" id="captcha" height="44" />
           </div>
         </form>
       </div>
