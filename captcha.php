@@ -1,17 +1,13 @@
-<?php
-ini_set("display_errors", "1");
-?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Funny Password Generator!</title>
+    <title>Funny Captcha Generator!</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -30,7 +26,7 @@ ini_set("display_errors", "1");
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Funny Password Generator!</a>
+          <a class="navbar-brand" href="#">Captcha Password Generator!</a>
         </div>
       </div>
     </div>
@@ -38,22 +34,24 @@ ini_set("display_errors", "1");
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h2>Funny Password Generator!</h2>
-        <p>The best way to create funny paswords</p>
-        <div class="input-group" id="generate-form">
-          <span class="input-group-btn">
-            <button class="btn btn-primary" type="button">Generate!</button>
-          </span>
-          <input type="text" class="form-control" id="generate-input" readonly="readonly">
-        </div><!-- /input-group -->
+        <h2>Funny Captcha Generator!</h2>
+        <p>The best way to create funny Captcha</p>
+        <form class="form-inline" role="form">
+          <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-lg">Generate Captcha!</button>
+          </div>
+          <div class="form-group">
+            <img src="captchaimage.php" height="44" />
+          </div>
+        </form>
       </div>
     </div>
 
     <div class="container">
       <div class="bs-callout bs-callout-warning">
-        <p>Are you boring? Meet our <a href="captcha.php">funny captcha</a></p>
+        <p>Are you boring? Meet our <a href="index.php">funny password</a></p>
       </div>
-      
+
       <hr>
 
       <footer>
