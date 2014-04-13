@@ -26,7 +26,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Captcha Password Generator!</a>
+          <a class="navbar-brand" href="#">Funny Captcha Generator!</a>
         </div>
       </div>
     </div>
