@@ -51,7 +51,7 @@ ini_set("display_errors", "1");
 
     <div class="container">
       <div class="bs-callout bs-callout-warning">
-        <p>Are you boring? Meet our <a href="captcha.php">funny captcha</a></p>
+        <p>Are you boring? Meet our <a href="captcha.php">funny captcha</a> or our <a href="logo.php">funny logo</a></p>
       </div>
       
       <hr>

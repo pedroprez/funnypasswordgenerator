@@ -4,10 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Funny Captcha Generator!</title>
+    <title>Logo Generator!</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,7 +27,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Funny Captcha Generator!</a>
+          <a class="navbar-brand" href="#"><img src="logoimage.php?type=isologo" original-path="logoimage.php" class="isologo-white" height="50" /><img src="logoimage.php?type=logotipo&color=white" original-path="logoimage.php" class="logotipo-white" height="50" /></a>
         </div>
       </div>
     </div>
@@ -34,14 +35,28 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h2>Funny Captcha Generator!</h2>
-        <p>The best way to create funny Captcha</p>
-        <form class="form-inline" role="form" action="papa.php">
+        <h2>Funny Logo Generator!</h2>
+        <p>The best way to create funny logos</p>
+        <form class="form" role="form" action="papa.php">
           <div class="form-group">
-            <button type="submit" class="btn btn-primary btn-lg" id="btnUpdateCaptcha">Generate Captcha!</button>
+            <button type="submit" class="btn btn-primary btn-lg" id="btnUpdateLogo">Generate Logo!</button>
           </div>
           <div class="form-group">
-            <img src="captchaimage.php" original-path="captchaimage.php" id="captcha" height="44" />
+            <dl>
+              <dt>Favicon (32x32)</dt>
+              <dd><img src="logoimage.php" original-path="logoimage.php" id="favicon" height="32" /></dd>
+            </dl>
+            <dl>
+              <dt>IsoLogo (50x50)</dt>
+              <dd><img src="logoimage.php?type=isologo" original-path="logoimage.php" class="isologo" height="50" /></dd>
+            </dl>
+            <dl>
+              <dt>Logotipo (?x50)</dt>
+              <dd><img src="logoimage.php?type=logotipo" original-path="logoimage.php" class="logotipo" height="50" /></dd>
+            </dl>
+            <?php /*
+            <img src="logoimage.php?type=word" original-path="logoimage.php?type=word" id="logo" height="50" />
+            */?>
           </div>
         </form>
       </div>
@@ -49,7 +64,7 @@
 
     <div class="container">
       <div class="bs-callout bs-callout-warning">
-        <p>Are you boring? Meet our <a href="index.php">funny password</a> or our <a href="logo.php">funny logo</a></p>
+        <p>Are you boring? Meet our <a href="index.php">funny password</a> or our <a href="captcha.php">funny captcha</a></p>
       </div>
 
       <hr>
