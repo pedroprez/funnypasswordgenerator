@@ -3,6 +3,10 @@
 	{
 		"selected_items":
 		[
+			[
+				"ht",
+				"height	Attr"
+			]
 		]
 	},
 	"buffers":
@@ -11,9 +15,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 95.0,
 		"selected_items":
 		[
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
 			[
 				"PACK",
 				"Package Control: Remove Package"
@@ -67,7 +75,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 561.0
+		"width": 471.0
 	},
 	"console":
 	{
@@ -87,6 +95,15 @@
 	},
 	"file_history":
 	[
+		"/Users/pedroprez/Sites/funnypasswordgenerator/ajax/generate.php",
+		"/Users/pedroprez/Sites/funnypasswordgenerator/words.json",
+		"/Users/pedroprez/Sites/funnypasswordgenerator/index.php",
+		"/Users/pedroprez/Sites/funnypasswordgenerator/captchaimage.php",
+		"/Users/pedroprez/Sites/funnypasswordgenerator/js/main.js",
+		"/Users/pedroprez/Sites/funnypasswordgenerator/funny.sublime-project",
+		"/Users/pedroprez/Sites/funnypasswordgenerator/captcha.php",
+		"/Users/pedroprez/Sites/funnypasswordgenerator/css/main.css",
+		"/Users/pedroprez/Sites/funnypasswordgenerator/generate.php",
 		"/Users/pedroprez/Google Drive/Keetup/Reportes Pedro/2014/02.24.todo",
 		"/Users/pedroprez/Desktop/Propuestas recursos.TODO",
 		"/Users/pedroprez/Google Drive/Keetup/Reportes Pedro/2014/02.07.todo",
@@ -144,7 +161,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -159,6 +176,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"captcha",
+			"$token",
+			"ú",
+			"ó",
+			"í",
+			"é",
+			"á",
 			" \n",
 			"reuniPreguntar",
 			"R1",
@@ -182,6 +206,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"u",
+			"o",
+			"i",
+			"e",
+			"a",
 			"O1",
 			"N:N",
 			"M:M",
@@ -243,7 +272,7 @@
 	"project": "funny.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
